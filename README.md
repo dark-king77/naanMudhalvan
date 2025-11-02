@@ -7,7 +7,7 @@ Team Size : 4
 
 Team Leader : R. Hariharan
 
-Team member : T. Thirukumaran
+Team member : T. Thirukkumaran
 
 Team member :  S. Kavi Bharath
 
